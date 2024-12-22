@@ -13,3 +13,4 @@ This is the repository of the activity III
 ## Activity IV
 
 - Added css folder and file, also linked it with index file
+- Modified css file, took out "<style></style>" tags
