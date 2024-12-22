@@ -9,3 +9,7 @@ This is the repository of the activity III
 - Added images for content section.
 - Added content and menu.
 -Added new branch called Activity_IV
+
+## Activity IV
+
+- Added css folder and file, also linked it with index file
