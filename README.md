@@ -14,3 +14,4 @@ This is the repository of the activity III
 
 - Added css folder and file, also linked it with index file
 - Modified css file, took out "<style></style>" tags
+- Added about.html page and modified links and style of the header menu
