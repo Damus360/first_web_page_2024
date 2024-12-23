@@ -1,0 +1,74 @@
+commit 56e1eb4f45dc45ea59c88028021c4e2ff1d0f4a3
+Merge: 530d5fd 0de81f1
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Sun Dec 22 09:08:13 2024 -0600
+
+    Merge pull request #1 from Damus360/Activity_IV
+    
+    Activity iv
+
+commit 0de81f173d280ea190791da718b55d0ee333b113
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sun Dec 22 09:04:48 2024 -0600
+
+    pt2
+
+commit e3e64b78dffcd7a203fbb0c0e28166d7adf142fc
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sun Dec 22 09:01:28 2024 -0600
+
+    Adding about.html and other changes
+
+commit 0202670343882f7be0782408e9b5a101cf53d6b8
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sun Dec 22 07:03:44 2024 -0600
+
+    correction Style.css
+
+commit a94f58155a01d614788f9942c6df3b4601627689
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sun Dec 22 07:00:59 2024 -0600
+
+    CSS process
+
+commit e5a3258f44a6694c7d153f59a9d19446db6cabc9
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Sun Dec 22 06:54:34 2024 -0600
+
+    New Branch
+
+commit 530d5fddb736c3886b6efdc0add42023e4b1d18f
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Wed Dec 11 13:28:06 2024 -0600
+
+    Correcting index
+
+commit dd8ad0773fa6a367dfa187f7954881c366332e35
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Wed Dec 11 13:25:19 2024 -0600
+
+    Adding content in HTML and images folder
+
+commit ddcc87aef0e281b5b4552a6772347e929be44ae7
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Wed Dec 11 12:33:14 2024 -0600
+
+    Adding header and footer in html file, styles included too
+
+commit 416440808f8fe9775c14474952b78f515ddb48ae
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Wed Dec 11 11:44:59 2024 -0600
+
+    Adding basic structure in html file
+
+commit 738435293be618bdaa17444d478a3a0d03122a5f
+Author: Damus <9405118@alumnos.ufv.es>
+Date:   Wed Dec 11 11:43:06 2024 -0600
+
+    Adding basic structure in html file
+
+commit 31fc7d58351560a262fd8545d602012db5eab737
+Author: Damus360 <9405118@alumnos.ufv.es>
+Date:   Wed Dec 11 10:31:04 2024 -0600
+
+    Initial commit
